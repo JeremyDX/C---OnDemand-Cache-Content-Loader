@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SCREEN_TEST", "SCREEN_TEST\SCREEN_TEST\SCREEN_TEST.csproj", "{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SCREEN_TESTContent", "SCREEN_TEST\SCREEN_TESTContent\SCREEN_TESTContent.contentproj", "{F4FE1238-B400-456A-9E6B-D789F7C1D80D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{6BAD1601-29DB-4ACC-94E4-A1D4D9FED99D}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{F4FE1238-B400-456A-9E6B-D789F7C1D80D}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{F4FE1238-B400-456A-9E6B-D789F7C1D80D}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

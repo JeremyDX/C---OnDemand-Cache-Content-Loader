@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>font.png</Source>
+      <Name>font</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>FontTextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\Content\font.xnb</Output>
+      <Time>2012-12-14T04:15:17.92975-05:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2012-11-06T02:37:26.4375-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F4FE1238-B400-456A-9E6B-D789F7C1D80D}</ContentProjectGUID>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TESTContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-10-26T21:56:26-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

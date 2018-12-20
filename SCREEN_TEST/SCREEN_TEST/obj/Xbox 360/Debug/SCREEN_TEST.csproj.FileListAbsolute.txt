@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\SCREEN_TEST.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\SCREEN_TEST.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\obj\Xbox 360\Debug\SCREEN_TEST.exe
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\obj\Xbox 360\Debug\SCREEN_TEST.pdb
+C:\Documents and Settings\Administrator\my documents\visual studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\Content\SpriteFont1.xnb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2010\Projects\SCREEN_TEST\SCREEN_TEST\SCREEN_TEST\bin\Xbox 360\Debug\Content\font.xnb
